@@ -30,10 +30,10 @@ Each CSV includes:
 Example format (columns):
 ```
 Method, Precision (IB [BDO, BDU, BDH]), Recall (IB [BDO, BDU, BDH]), AUC (IB [BDO, BDU, BDH])
-
+```
 ---
 
-Also available as PDF file:
+### Also available as PDF file:
 
 Table5.pdf
 Table6.pdf
