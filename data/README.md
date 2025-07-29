@@ -35,6 +35,6 @@ Method, Precision (IB [BDO, BDU, BDH]), Recall (IB [BDO, BDU, BDH]), AUC (IB [BD
 
 ### Also available as PDF file:
 
-Table5.pdf
-Table6.pdf
-Table7.pdf
+`Table5.pdf`
+`Table6.pdf`
+`Table7.pdf`
